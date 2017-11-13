@@ -2,7 +2,7 @@
   "name": "timma-flex",
   "version": "1.0.0",
   "description": "flex for less",
-  "main": "index.js",
+  "main": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,7 +14,7 @@
     "flex",
     "less"
   ],
-  "author": "macj",
+  "author": "timma",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/machuanjia/timma-flex/issues"
